@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U8PrBIWjcRlcJH9yTGyxNZ81nn0uAB7GJLKGCCy4gsqcEFtlTqLU3N7VNY+r7GzAoyH28y/rdGrOwVEpRaumuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Sample_SQLiteCRUD\\Calculator.Core\\Calculator.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

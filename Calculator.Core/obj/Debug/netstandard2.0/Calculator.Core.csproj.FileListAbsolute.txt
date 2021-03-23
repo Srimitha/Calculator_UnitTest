@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Sample_SQLiteCRUD\Calculator.Core\bin\Debug\netstandard2.0\Calculator.Core.deps.json
+C:\Users\user\source\repos\Sample_SQLiteCRUD\Calculator.Core\bin\Debug\netstandard2.0\Calculator.Core.dll
+C:\Users\user\source\repos\Sample_SQLiteCRUD\Calculator.Core\bin\Debug\netstandard2.0\Calculator.Core.pdb
+C:\Users\user\source\repos\Sample_SQLiteCRUD\Calculator.Core\obj\Debug\netstandard2.0\Calculator.Core.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Sample_SQLiteCRUD\Calculator.Core\obj\Debug\netstandard2.0\Calculator.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Sample_SQLiteCRUD\Calculator.Core\obj\Debug\netstandard2.0\Calculator.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\Sample_SQLiteCRUD\Calculator.Core\obj\Debug\netstandard2.0\Calculator.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sample_SQLiteCRUD\Calculator.Core\obj\Debug\netstandard2.0\Calculator.Core.dll
+C:\Users\user\source\repos\Sample_SQLiteCRUD\Calculator.Core\obj\Debug\netstandard2.0\Calculator.Core.pdb

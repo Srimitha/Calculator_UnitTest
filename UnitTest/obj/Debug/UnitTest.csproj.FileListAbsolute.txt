@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\bin\Debug\Calculator.Core.dll
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\bin\Debug\Calculator.Core.pdb
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\user\source\repos\Sample_SQLiteCRUD\UnitTest\obj\Debug\UnitTest.pdb
